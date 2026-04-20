@@ -1,0 +1,6 @@
+Pasta para as imagens do site.
+Renomeie seus arquivos exatamente como abaixo:
+1. jefferson.jpg (Sua foto na seção Quem Sou)
+2. casa-brincar.jpg (Projeto Casa do Brincar)
+3. urus-barbershop.jpg (Projeto URUS Barbershop)
+4. gmn-modelo.jpg (Exemplo visual do Google Meu Negócio)
